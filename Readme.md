@@ -1,4 +1,4 @@
-Steps to run the JLeaks approach in an application
+# Steps to run the JLeaks approach in an application
 
 0 - Configure jupyter notebook tool
 
